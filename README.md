@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ReDChicagOTypewriteR/redchicagotypewriter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -92,5 +90,5 @@ Here are some ideas to get you started:
 ![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 
-
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ReDChicagOTypewriteR)
 <hr/>
