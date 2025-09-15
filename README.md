@@ -77,8 +77,6 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 ![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 
-![](https://raw.githubusercontent.com/ReDChicagOTypewriteR/ReDChicagOTypewriteR/main/dist/github-contribution-grid-snake.svg)
-
 
 <hr/>
 
