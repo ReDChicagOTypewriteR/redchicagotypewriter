@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7B6DD&center=true&vCenter=true&width=435&lines=Hello+there+(%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85)%E2%9C%A8)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://alexjoker-blog.oss-cn-guangzhou.aliyuncs.com>
-
-
-</div>
+  <picture>
+    <img src="https://alexjoker-blog.oss-cn-guangzhou.aliyuncs.com/img/05.png"/>
+  </picture>
 
 
 
