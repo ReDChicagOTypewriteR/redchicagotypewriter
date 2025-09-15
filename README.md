@@ -92,8 +92,8 @@ Here are some ideas to get you started:
 </picture>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReDChicagOTypewriteR)
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={ReDChicagOTypewriteR}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ReDChicagOTypewriteR&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={YOUR_USERNAME}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username={ReDChicagOTypewriteR}&theme=github-compact&hide_border=true&area=true" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ReDChicagOTypewriteR&theme=github-compact&hide_border=true&area=true" />
 
 <hr/>
