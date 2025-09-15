@@ -21,13 +21,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@brennanbrown.ca)](mailto:mail@brennanbrown.ca)
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/brennanbrown)](https://ko-fi.com/brennanbrown)
-![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)
-![Open Source](http://img.shields.io/badge/-Open%20Source%20Fan-3DA639?style=flat&logo=open-source-initiative&logoColor=ffffff)
-
-<p align="center"> :octocat: <b><a href="https://www.alexjoker.top">Website</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://www.brennanbrown.ca/project">Projects</a></b> :octocat: </p>
-
 ## About Me（关于我） :wave:
 
 # 🌸😺 喵~ 你没看错，我就是那只从加利福尼亚偷渡过来的猫
@@ -100,5 +93,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReDChicagOTypewriteR)
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={ReDChicagOTypewriteR}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={YOUR_USERNAME}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username={ReDChicagOTypewriteR}&theme=github-compact&hide_border=true&area=true" />
 
 <hr/>
