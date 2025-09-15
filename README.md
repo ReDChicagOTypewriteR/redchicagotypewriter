@@ -39,9 +39,31 @@ Here are some ideas to get you started:
 
 ## About Me :wave:
 
-Hey there! :smile: My name is Brennan. I'm a 24-year-old Métis web developer and blogger from Winnipeg, Manitoba and currently reside in Calgary, Alberta. I just finished a Full Stack Developer Program at [EvolveU](https://www.evolveu.ca/), and I'm looking for open-source projects to contribute to and people to collaborate with! I love creating and tinkering with small, static websites using frameworks like Jekyll or Hugo. I'm a big proponent of putting an emphasis on accessibility and the [A11y project](https://www.a11yproject.com/) in web development.
+# 🌸😺 Hello, I'm AleXJokeR  
 
-I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [an e-mail](mailto:mail@brennanbrown.ca) if that sounds like your cup of tea. :coffee:
+> *“我是一只来自加利福尼亚的猫猫～”* 🐾  
+但别被我的毛茸茸外表骗了，其实我会写代码 ✨。  
+
+## 🧩 技术栈  
+💻 我会使用：  
+- 🌿 **Java & Spring** → 稳定可靠的后端力量  
+- 🐍 **Python** → 脚本 & AI 的灵活助手  
+- 🎨 **Vue / 前端探索** → 让界面更灵动  
+- ⚙️ **中间件 & 分布式** → 让系统喵力全开  
+
+## 🌱 正在探索  
+- AI 🤖 × 金融交易 💹 的奇妙结合  
+- 构建一些既有趣又有含金量的项目 ✨  
+
+## 💖 Fun Facts  
+- 🐾 调试时我会先“喵”一声再敲键盘  
+- ☕ 对我来说，Bug ≈ 咖啡伴侣  
+- 🌙 夜深人静时的代码最有魔力  
+
+---
+
+✨ 如果你也喜欢猫猫或者代码，记得来打个招呼呀！  
+
 
 <!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
 
