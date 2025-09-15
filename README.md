@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)
 ![Open Source](http://img.shields.io/badge/-Open%20Source%20Fan-3DA639?style=flat&logo=open-source-initiative&logoColor=ffffff)
 
-<p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://www.brennanbrown.ca/project">Projects</a></b> :octocat: </p>
+<p align="center"> :octocat: <b><a href="https://www.alexjoker.top">Website</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://www.brennanbrown.ca/project">Projects</a></b> :octocat: </p>
 
 ## About Me（关于我） :wave:
 
@@ -99,5 +99,6 @@ Here are some ideas to get you started:
 </picture>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReDChicagOTypewriteR)
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={ReDChicagOTypewriteR}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 <hr/>
