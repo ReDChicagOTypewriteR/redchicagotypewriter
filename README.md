@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## About Me（关于我） :wave:
 
-# 🌸😺 Hello, I'm AleXJokeR  
+# 🌸😺 喵~ 你没看错，我就是那只从加利福尼亚偷渡过来的猫
 
 > *“我是一只来自加利福尼亚的猫猫～”* 🐾  
 但别被我的毛茸茸外表骗了，其实我会写代码 ✨。  
