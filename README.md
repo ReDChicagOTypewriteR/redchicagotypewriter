@@ -91,8 +91,17 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ReDChicagOTypewriteR/ReDChicagOTypewriteR/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h1 align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReDChicagOTypewriteR)
-</h1>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ReDChicagOTypewriteR&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ReDChicagOTypewriteR&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ReDChicagOTypewriteR&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+</picture>
+
 
 <hr/>
