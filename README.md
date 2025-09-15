@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7B6DD&center=true&vCenter=true&width=435&lines=Hello+there+(%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85)%E2%9C%A8)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,anaconda,java,mysql,apple" />
-  </a>
-</p>
+
 
 ## About Me（关于我） :wave:
 
@@ -138,7 +134,6 @@ Here are some ideas to get you started:
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
 
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -153,15 +148,11 @@ Here are some ideas to get you started:
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
-<!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/ReDChicagOTypewrite/ReDChicagOTypewrite/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/ReDChicagOTypewrite/ReDChicagOTypewrite/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/ReDChicagOTypewrite/ReDChicagOTypewrite/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/ReDChicagOTypewrite/ReDChicagOTypewrite/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/ReDChicagOTypewrite/ReDChicagOTypewrite/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/ReDChicagOTypewrite/ReDChicagOTypewrite/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/ReDChicagOTypewrite/ReDChicagOTypewrite/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/ReDChicagOTypewrite/ReDChicagOTypewrite/assets/images/github.webp">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,anaconda,java,mysql,apple,ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" />
+  </a>
+</p>
 
 
 
