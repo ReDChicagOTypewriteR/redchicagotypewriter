@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7B6DD&center=true&vCenter=true&multiline=true&width=435&lines=Hello+there+(%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85)%E2%9C%A8)](https://git.io/typing-svg)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReDChicagOTypewriteR)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 
 
 <h1 align="center">Hi, I'm AleXJokeR! :stars:</h1>
@@ -97,4 +97,7 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReDChicagOTypewriteR/ReDChicagOTypewriteR/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ReDChicagOTypewriteR/ReDChicagOTypewriteR/output/github-contribution-grid-snake.svg">
 </picture>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReDChicagOTypewriteR)
+
 <hr/>
