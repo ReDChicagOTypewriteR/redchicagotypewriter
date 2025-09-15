@@ -91,4 +91,10 @@ Here are some ideas to get you started:
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ReDChicagOTypewriteR&theme=react-dark)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReDChicagOTypewriteR/ReDChicagOTypewriteR/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReDChicagOTypewriteR/ReDChicagOTypewriteR/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ReDChicagOTypewriteR/ReDChicagOTypewriteR/output/github-contribution-grid-snake.svg">
+</picture>
 <hr/>
